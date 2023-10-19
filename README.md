@@ -56,5 +56,4 @@ Need to perform clustering to summarize customer segments.
 - https://www.kaggle.com/code/alisultanov/clustering-customer-personality-analysis
 - https://www.kaggle.com/code/sisharaneranjana/types-of-customers-and-what-they-need-r
 - https://www.kaggle.com/code/sonalisingh1411/customer-personality-analysis-segmentation
-- https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering (Grandmaster)
-- https://www.kaggle.com/code/hasibalmuzdadid/customer-personality-analysis-segmentation (Grandmaster)
+- https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering
