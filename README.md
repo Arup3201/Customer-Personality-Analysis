@@ -2,7 +2,7 @@
 
 ## Segment Analysis
 
-1.  Customer segments after reducing the dimension of the data looks like this:)
+1. Customer segments after reducing the dimension of the data looks like this:
    
    ![](./outputs/customer-segments.png)
 
@@ -83,13 +83,11 @@
    
    This results are taken from the following figures.
    
-   <img title="" src="./outputs/profile-age.png" alt="" width="671"><img title="" src="./outputs/profile-customerfor.png" alt="" width="647">
-   
-   <img title="" src="./outputs/profile-family.png" alt="" width="637"><img title="" src="./outputs/profile-living.png" alt="" width="697"><img src="./outputs/profile-children.png" title="" alt="" width="662"><img src="./outputs/profile-teenhome.png" title="" alt="" width="642"><img src="./outputs/profile-education.png" title="" alt="" width="649">
-
-
+   <img title="" src="./outputs/profile-age.png" alt="" width="671"><img title="" src="./outputs/profile-customerfor.png" alt="" width="647"><img title="" src="./outputs/profile-family.png" alt="" width="637"><img title="" src="./outputs/profile-living.png" alt="" width="697"><img src="./outputs/profile-children.png" title="" alt="" width="662"><img src="./outputs/profile-teenhome.png" title="" alt="" width="642"><img src="./outputs/profile-education.png" title="" alt="" width="649">
 
 ## Dataset
+
+Name: `marketing_campaign.csv`
 
 Link: [Here](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 
