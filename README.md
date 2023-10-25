@@ -1,4 +1,93 @@
-# Customer segmentation marketing campaign data
+# Customer Segmentation and Analysis
+
+## Segment Analysis
+
+1.  Customer segments after reducing the dimension of the data looks like this:)
+   
+   ![](./outputs/customer-segments.png)
+
+2. The segments are distributed fairly. From this diagram it is evident.
+   
+   ![](./outputs/segment-distribution.png)
+
+3. By plotting a scatter plot between Income and Spending power of the customers, we can see the customer segments and their properties that align with their income.
+   
+   ![](./outputs/segments-scatter.png)
+   
+   **Customer Segments and their purchasing behaviour depending on their `Income`**
+   
+   - Cluster 0: High Income and High Spending
+   - Cluster 1: Low Income and Low Spending
+   - Cluster 2: High Income and Average Spending
+   - Cluster 3: High Income and Low Spending
+
+4. Customer segment distrubution for their spending power represented by boxplot is as follows.
+   
+   ![](./outputs/segment-box.png)
+   
+   **Insights**
+   
+   - Cluster 0 and Cluster 2 have high spending power and they are our main source of customers.
+   - Cluster 1 and cluster 3 seems to spend a lot less amount on purchasing our products but cluster 3 has many customers who spend a bit more than people from cluster 1.
+
+5. Customer segments and their interaction with promotional contents.
+   
+   ![](./outputs/segment-promo.png)
+   
+   **Insights**
+   
+   - Promotions have not been much popular.
+   - We can say that promotions are not particularly working and needs improvements.
+
+6. Number of deals taken by customers from each customer segment.
+   
+   ![](./outputs/segment-deals.png)
+   
+   **Insight**
+   
+   - Cluster 2 and cluster 3 are specially active when it comes to purchasing deals. There are a lot of deals purchases from cluster 2 specially and next is cluster 3.
+   - Although comparatively less, cluster 2 also has higher number of deals that are purchased.
+
+7. Customer profiles based on their behaviour and personality.
+   
+   **Customer profiles**
+   
+   1. *Cluster 0*:
+      
+      - Customers of this cluster are definitely no parents.
+      - They have atmost 2 family members.
+      - Some are living single and some are living with their spouse.
+   
+   2. *Cluster 1*:
+      
+      - Most Customers of this cluster are parents and very few are not.
+      - They have atmost 3 people in their family.
+      - They are mostly young people atmost in their early 40s.
+      - They don't have any teen at their home.
+   
+   3. *CLuster 2*:
+      
+      - Most customers of this cluster are parents.
+      - Their family size is atleast 2 and atmost 4.
+      - Most of them have 1 children in their home.
+      - They mostly have teens not kids.
+      - They have been our customer for a longer duration.
+   
+   4. *Cluster 3*:
+      
+      - Most customers of this cluster are not parents.
+      - Their family size is atleast 2 and atmost 5.
+      - They have atleast 1 children and atmost 3 children.
+      - Most of the children are teens.
+      - They have been our customer for shorter period of time.
+   
+   This results are taken from the following figures.
+   
+   <img title="" src="./outputs/profile-age.png" alt="" width="671"><img title="" src="./outputs/profile-customerfor.png" alt="" width="647">
+   
+   <img title="" src="./outputs/profile-family.png" alt="" width="637"><img title="" src="./outputs/profile-living.png" alt="" width="697"><img src="./outputs/profile-children.png" title="" alt="" width="662"><img src="./outputs/profile-teenhome.png" title="" alt="" width="642"><img src="./outputs/profile-education.png" title="" alt="" width="649">
+
+
 
 ## Dataset
 
