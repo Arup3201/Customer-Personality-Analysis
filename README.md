@@ -86,14 +86,8 @@ Customer personality analysis helps a business to modify its product based on it
    - They have atleast 1 children and atmost 3 children.
    - Most of the children are teens.
    - They have been our customer for shorter period of time.
-   
-<<<<<<< HEAD
-   This results are taken from the following figures.![](./outputs/profile-age.png)![](./outputs/profile-customerfor.png)![](./outputs/profile-family.png)![](./outputs/profile-living.png)![](./outputs/profile-children.png)![](./outputs/profile-teenhome.png)
-   
-   ![](./outputs/profile-education.png)
-=======
-   This results are taken from the following figures.![](.\outputs\profile-age.png?msec=1698467661571?msec=1698469116524?msec=1698469177473)![](.\outputs\profile-customerfor.png?msec=1698467661625?msec=1698469116526?msec=1698469177473)![](.\outputs\profile-family.png?msec=1698467661630?msec=1698469116527?msec=1698469177474)![](.\outputs\profile-living.png?msec=1698467661581?msec=1698469116528?msec=1698469177474)![](.\outputs\profile-children.png?msec=1698467661632?msec=1698469116529?msec=1698469177475)![](.\outputs\profile-teenhome.png?msec=1698467661581?msec=1698469116530?msec=1698469177475)![](.\outputs\profile-education.png?msec=1698467661629?msec=1698469116530?msec=1698469177476)
->>>>>>> 196d2d4bc3af64ed2121451523d5cefbcfbb6166
+
+This results are taken from the following figures.![](./outputs/profile-age.png)![](./outputs/profile-customerfor.png)![](./outputs/profile-family.png)![](./outputs/profile-living.png)![](./outputs/profile-children.png)![](./outputs/profile-teenhome.png)   ![](./outputs/profile-education.png)
 
 ## Dataset
 
