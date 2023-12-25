@@ -1,4 +1,4 @@
-# Customer Segmentation and Analysis
+# Customer Personality Analysis
 
 ## About the project
 
@@ -137,39 +137,6 @@ Link: [Here](https://www.kaggle.com/datasets/imakash3011/customer-personality-an
 - `NumCatalogPurchases`: Number of purchases made using a catalogue
 - `NumStorePurchases`: Number of purchases made directly in stores
 - `NumWebVisitsMonth`: Number of visits to company’s website in the last month
-
-## Business Objectives
-
-1. **Customer Profiling**
-- Problem: Understand the demographics and characteristics of different customer segments.
-- Solution: Use demographic features like age, education, marital status, and income to create customer profiles. This helps in targeted marketing and product customization for different segments.
-2. **Purchase Behavior Analysis**
-- Problem: Analyze what products customers are buying and how much they are spending.
-- Solution: Utilize features like MntWines, MntFruits, etc., to analyze spending patterns. Identify which products are popular among specific customer segments and optimize stock and promotions accordingly.
-3. **Campaign Effectiveness**
-- Problem: Evaluate the effectiveness of past marketing campaigns.
-- Solution: Use AcceptedCmp1 to AcceptedCmp5 and Response features to analyze campaign acceptance rates among different segments. Identify which campaigns were successful for specific customer groups and tailor future campaigns accordingly.
-4. **Customer Engagement**
-- Problem: Measure customer engagement with the company’s website and promotions.
-- Solution: Utilize features like NumWebVisitsMonth, NumWebPurchases, and NumCatalogPurchases to understand online behavior. Identify segments with high online engagement and target them with online promotions.
-5. **Customer Retention**
-- Problem: Identify factors affecting customer retention and loyalty.
-- Solution: Analyze Recency (number of days since last purchase) and Complain feature to understand customer satisfaction and loyalty. Identify trends among customers who complained and work on improving their experience.
-6. **Channel Optimization**
-- Problem: Optimize sales channels (website, stores, catalog) based on customer preferences.
-- Solution: Use features like NumWebPurchases, NumCatalogPurchases, and NumStorePurchases to identify preferred buying channels among different segments. Optimize inventory and marketing strategies for each channel.
-7. **Promotion Strategy**
-- Problem: Determine which promotions are most effective for different customer segments.
-- Solution: Analyze NumDealsPurchases and campaign acceptance features to identify the types of promotions that drive sales for specific customer groups. Adjust promotions based on segment preferences.
-8. **Customer Journey Mapping**
-- Problem: Understand the customer journey from website visits to purchases.
-- Solution: Utilize features related to web visits, online purchases, and in-store purchases to map the customer journey. Identify drop-off points and optimize user experience to increase conversions.
-9. **Upselling and Cross-selling**
-- Problem: Identify opportunities for upselling and cross-selling products.
-- Solution: Analyze purchase patterns across different product categories. Identify products often bought together (cross-selling) and products that can be upgraded (upselling) based on customer segments.
-10. **Customer Segmentation Refinement**
-- Problem: Refine existing customer segments for targeted marketing efforts.
-- Solution: Utilize clustering algorithms to identify natural customer segments based on various features. Refine segments based on purchase behavior, responsiveness to promotions, and other relevant criteria.
 
 ## References
 
